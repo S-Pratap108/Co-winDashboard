@@ -1,0 +1,25 @@
+.app-cont {
+  padding: 30px;
+  background-color: #161625;
+  min-height: 100vh;
+  width: 100%;
+  color: #cbd5e1;
+}
+
+.app-hdg {
+  display: flex;
+  flex-direction: row;
+}
+
+.img-logo {
+  width: 100px;
+  margin-right: 20px;
+}
+
+.app-name {
+  color: #2cc6c6;
+}
+
+.main-hdg {
+  color: #cbd5e1;
+}

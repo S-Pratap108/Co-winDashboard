@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.chart-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1c2b;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+.hdg {
+  align-self: flex-start;
+  margin-left: 20px;
+  font-size: 25px;
+  color: #94a3b8;
+}
